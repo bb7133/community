@@ -4,7 +4,7 @@
 
 TiDB is a community-driven open source project and we welcome any contributor.  Contributions to the TiDB project are expected to adhere to our [Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md).
 
-This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. You can also join us in our [Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap) for help with any issues.
+This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. You can also join us in [Discord](https://discord.gg/KVRZBR2DrG?utm_source=github) or [Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap) if you need help with any issues.
 
 <!-- TOC -->
 
@@ -28,7 +28,7 @@ This document outlines some conventions about development workflow, commit messa
 
 ### Sign the CLA
 
-Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla-assistant.io/pingcap/tidb).
+Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla.pingcap.net/pingcap/tidb).
 
 What is [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)?
 
@@ -134,7 +134,7 @@ Keeping a consistent style for code, code comments, commit messages, and pull re
 
 The TiDB projects uses Continuous Integration(CI) Commands and Pull Requests commands to improve efficiency and code quality.
 
-See [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for details.
+See [BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for details.
 
 ## Benchmark
 

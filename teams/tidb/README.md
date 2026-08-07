@@ -11,7 +11,7 @@ The current list of TiDB maintainers is as below.
 | Huaiyu Xu      | XuHuaiyu     | TiDB Maintainer |
 | Fei Yang       | amyangfei    | TiDB Maintainer |
 | Cong Wang      | bb7133       | TiDB Maintainer |
-| Wenxuan Shi    | breeswish    | TiDB Maintainer |
+| Wenxuan Shi    | breezewish   | TiDB Maintainer |
 | Dongxu Huang   | c4pt0r       | TiDB Maintainer |
 | Rui Xu         | cfzjywxk     | TiDB Maintainer |
 | Yuxing Zhou    | coocood      | TiDB Maintainer |
@@ -31,12 +31,12 @@ The current list of TiDB maintainers is as below.
 | Yiding Cui     | winoros      | TiDB Maintainer |
 | Xia Li         | zimulala     | TiDB Maintainer |
 | Jian Zhang     | zz-jason     | TiDB Maintainer |
+| Terry Purcell  | terry1purcell| TiDB Maintainer |
+| Mattias Jonsson| mjonss       | TiDB Maintainer |
 
-## Repositories
+## Code Locations
 
 * [tidb](https://github.com/pingcap/tidb)
-* [parser](https://github.com/pingcap/parser)
-* [br](https://github.com/pingcap/br)
 * [kvproto](https://github.com/pingcap/kvproto)
 * [tipb](https://github.com/pingcap/tipb)
 * [errcode](https://github.com/pingcap/errcode)

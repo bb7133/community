@@ -44,7 +44,7 @@ Decisions regarding the project are made by votes on [the community repository](
 * **0**: Neutral about the proposed action (or mildly negative but not enough so to want to block it).
 * **-1**: This is a negative vote. On issues where consensus is required, this vote counts as a veto. All vetoes must contain an explanation of why the veto is appropriate. Vetoes with no explanation are void. It may also be appropriate for a -1 vote to include an alternative course of action.
 
-All participants in the TiDB community are encouraged to show their agreement with or against a particular action by voting. For team decisions, only the votes of active team maintainers are binding. Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider community.
+All participants in the TiDB community are encouraged to show their agreement with or against a particular action by voting. For team decisions, only the votes of active team maintainers are binding (no matter whether he/she is also the vote proposer or not). Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider community.
 
 Only active (i.e. non-emeritus) maintainers have binding votes.
 
@@ -70,11 +70,13 @@ If you disagree with a valid veto, you must lobby the person casting the veto to
 
 ### Actions
 
-| Actions            | Description                                     | Approval      | Binding Voters     | Minimum Length (days) |
-| :----------------- | :---------------------------------------------- | :------------ | :----------------- | :-------------------- |
-| New Reviewer       | When a new reviewer is proposed for the team.   | Lazy Majority | Active maintainers | 3                     |
-| New Committer      | When a new committer is proposed for the team.  | Consensus     | Active maintainers | 6                     |
-| New Maintainer     | When a new maintainer is proposed for the team. | Consensus     | Active maintainers | 6                     |
-| Reviewer Removal   | When removal of review privileges is sought.    | Consensus     | Active maintainers | 6                     |
-| Committer Removal  | When removal of commit privileges is sought.    | Consensus     | Active maintainers | 6                     |
-| Maintainer Removal | When removal of maintain privileges is sought.  | Consensus     | Active maintainers | 6                     |
+| Actions            | Description                                                                               | Approval      | Binding Voters     | Minimum Length (days) |
+| :----------------- | :---------------------------------------------------------------------------------------- | :------------ | :----------------- | :-------------------- |
+| New Reviewer       | When a new reviewer is proposed for the team, should be only nominated by a committer.    | Lazy Majority | Active maintainers | 3                     |
+| New Committer      | When a new committer is proposed for the team, should be only nominated by a maintainer.  | Consensus     | Active maintainers | 6                     |
+| New Maintainer     | When a new maintainer is proposed for the team, should be only nominated by a maintainer. | Consensus     | Active maintainers | 6                     |
+| Reviewer Removal   | When removal of review privileges is sought.                                              | Consensus     | Active maintainers | 6                     |
+| Committer Removal  | When removal of commit privileges is sought.                                              | Consensus     | Active maintainers | 6                     |
+| Maintainer Removal | When removal of maintain privileges is sought.                                            | Consensus     | Active maintainers | 6                     |
+
+Roles are not exchangeable between teams since each team might has its own management rules. But it is allowed for a team member to self-nominate him/herself for another team to reduce some roundtrip communication. 

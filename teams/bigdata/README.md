@@ -1,12 +1,12 @@
 # BigData Team
 
-This team works for connecting TiDB with Big Data ecosystem.
+BigData team covers the areas where TiDB and big data are combined, including but not limited to TiDB + Flink, TiDB + Spark, TiDB + Presto.
 
 ## Members
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [tispark](https://github.com/pingcap/tispark)
 * [tispark-test](https://github.com/pingcap/tispark-test)

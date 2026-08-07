@@ -1,12 +1,13 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "This team works for TiUP, a tool to download and install TiDB components.",
+
     "maintainers": [
         "AstroProfundis",
         "lucklove",
-        "nexustar"
+        "kaaaaaaang",
+        "srstack"
     ],
 
     "committers": [
@@ -18,6 +19,10 @@
 
     "reviewers": [
         "birdstorm",
-        "breeswish"
+        "breezewish"
+    ],
+
+    "repositories": [
+        "tiup"
     ]
 }

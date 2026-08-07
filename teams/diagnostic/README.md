@@ -1,11 +1,11 @@
 # Diagnostic Team
 
-This team works for improving the observability and diagnostic experience of TiDB projects.
+Diagnostic team focuses on improving the diagnosability and observability of TiDB core components (TiDB, TiKV and PD).
 
 ## Members
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [tidb-dashboard](https://github.com/pingcap/tidb-dashboard)

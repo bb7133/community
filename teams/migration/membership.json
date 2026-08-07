@@ -1,44 +1,70 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+    "description": "Migrate covers migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.",
     "maintainers": [
         "amyangfei",
+        "0xPoe",
         "kennytm",
         "lance6716"
     ],
-
     "committers": [
+        "3AceShowHand",
         "3pointer",
         "5kbpers",
+        "Benjamin2037",
+        "CharlesCheung96",
+        "D3Hunter",
         "Ehco1996",
         "GMHDBJD",
         "IANTHEREAL",
         "Leavrth",
         "Little-Wallace",
+        "OliverS929",
+        "Tammyxia",
         "WangXiangUSTC",
+        "WizardXiao",
         "YuJuncen",
+        "asddongmen",
+        "buchuitoudegou",
         "csuzhangxc",
+        "dsdashun",
         "glorv",
+        "gozssky",
+        "hicqu",
         "holys",
+        "hongyunyan",
         "july2993",
         "leoppro",
         "lichunzhu",
+        "lidezhu",
         "liuzix",
         "lonng",
+        "maxshuang",
+        "niubell",
+        "okJiang",
         "overvenus",
+        "sdojjy",
         "suzaku",
+        "wk989898",
+        "wlwilliamx",
+        "zhangjinpeng87",
+        "zhaoxinyu",
         "zwj-coder"
     ],
-
     "reviewers": [
-        "3AceShowHand",
-        "asddongmen",
+        "MoCuishle28",
         "ben1009",
-        "gozssky",
-        "hi-rustin",
+        "charleszheng44",
+        "fengou1",
         "iamxy",
+        "joccau",
+        "nongfushanquan",
         "tiancaiamao"
+    ],
+    "repositories": [
+        "dm",
+        "tidb",
+        "tidb-binlog",
+        "tiflow"
     ]
 }
